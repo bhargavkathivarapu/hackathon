@@ -33,5 +33,3 @@ if response['status'] == 'OK':
         print('')
 else:
     print('Error in keyword extaction call: ', response['statusInfo'])
-
-//bhargav
